@@ -1,6 +1,8 @@
+https://img.shields.io/badge/python-3.9-python
+
 # Appstore-reviews-scraper
 A Python script to scrape Apple App Store reviews via the public RSS feed and export them to Excel.
-<img width="1346" height="417" alt="image" src="https://github.com/user-attachments/assets/bc87526c-98e8-45ad-a6b4-b5303343da0c" />
+
 
 
 ## Features
